@@ -16,7 +16,7 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/ZapadniLes/custom-dvd-screensaver.git
-cd dvd-logo-screensaver
+cd custom-dvd-screensaver
 ```
 ### 2. Install Python
 
