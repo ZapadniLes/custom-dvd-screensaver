@@ -15,7 +15,7 @@ With this script and a few more steps below you can create a screensaver in the 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/dvd-logo-screensaver.git
+git clone https://github.com/ZapadniLes/custom-dvd-screensaver.git
 cd dvd-logo-screensaver
 ```
 ### 2. Install Python
